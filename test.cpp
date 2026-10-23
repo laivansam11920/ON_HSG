@@ -15,7 +15,7 @@ int main() {
 
     sort(a_n, a_n + n);
 
-    
+    //
 
     return 0;
 }
